@@ -26,7 +26,9 @@
 
 **Legenda:**
 - O cabo utilizado para transferência de dados foi um cabo micro-USB.
-**Aviso:** Imagem apresentada apenas exibe o cabo e a placa conectados no computador, nenhum outro componente está em uso.
+
+**Aviso:** 
+- Imagem apresentada apenas exibe o cabo e a placa conectados no computador, nenhum outro componente está em uso.
 
 ## Observação:
 Em alguns modelos do ESP32 pode ser necessário segurar o botão **BOOT** para permitir que a programação seja enviada.
