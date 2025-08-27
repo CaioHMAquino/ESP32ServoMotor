@@ -18,7 +18,7 @@
 ![foto](https://github.com/CaioHMAquino/ESP32ServoMotor/blob/main/imagens/Programa%C3%A7%C3%A3o.jpeg)
 
 **Legenda:**
-- Esta programação faz o motor girar sua hélice em 90° a cada 1 segundo, utilizando a biblioteca ESP32Servo.
+- Esta programação faz o motor girar sua hélice em 90° a cada 1 segundo (o Servo Motor apenas gira em 180°, após chegar neste limite ele fará o processo inverso, como apresentado no loop do código), utilizando a biblioteca ESP32Servo.
 - O driver CP210 é necessário para conectar o ESP32 ao Arduino IDE.
 
 ## 5° Passo: Envie a programação para o ESP32 através de um cabo e utilizando o programa Arduino IDE
