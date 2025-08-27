@@ -1,7 +1,7 @@
 # Passo a Passo para Montagem de um Servo Motor com ESP32
 
 ## 1° Passo: Conectar a placa ESP32 na protoboard
-![foto]([URL_DA_IMAGEM](https://github.com/CaioHMAquino/ESP32ServoMotor/blob/main/imagens/esp32%20na%20board.jpeg))
+![foto]((https://github.com/CaioHMAquino/ESP32ServoMotor/blob/main/imagens/esp32%20na%20board.jpeg))
 
 ## 2° Passo: Identifique onde cada cabo deve ser conectado no Servo Motor
 ![foto](URL_DA_IMAGEM)
