@@ -7,7 +7,7 @@
 ![foto](https://github.com/CaioHMAquino/ESP32ServoMotor/blob/main/imagens/Conex%C3%A3o%20dos%20Fios.jpeg)
 
 **Legenda:**
-- Marrom indica o GND/Ground
+- Marrom/Roxo indica o GND/Ground
 - Vermelho indica V+/Energia (5V)
 - Amarelo indica o cabo Digital
 
